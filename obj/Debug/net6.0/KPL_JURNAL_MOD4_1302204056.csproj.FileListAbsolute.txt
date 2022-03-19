@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\bin\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.exe
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\bin\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.deps.json
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\bin\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.runtimeconfig.json
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\bin\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.dll
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\bin\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.pdb
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.dll
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\refint\KPL_JURNAL_MOD4_1302204056.dll
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.pdb
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\KPL_JURNAL_MOD4_1302204056.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KPL_JURNAL_MOD4_1302204056\obj\Debug\net6.0\ref\KPL_JURNAL_MOD4_1302204056.dll
